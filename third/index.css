@@ -11,16 +11,15 @@ body {
 .div1 {
 	background-color: #D8D8D8;
 	height: 14%;
-	position: relative;
+	padding-top: 15px;
+	padding-left:20px;
+	box-sizing: border-box;
 }
 
 .small-square {
 	background-color: #4990E2;
 	width: 12.5%;
 	height: 11vh;
-	margin-top: 15px;
-	margin-left: 20px;
-	position: absolute;
 }
 
 .div2 {
